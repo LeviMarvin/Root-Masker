@@ -1,0 +1,25 @@
+# Build Properities
+#ro.build.keys=release-keys
+ro.build.tags=release-keys
+ro.build.type=user
+
+# Secure Properities
+ro.boot.flash.locked=1
+ro.boot.vbmeta.device_state=locked
+ro.boot.verifiedbootstate=green
+ro.boot.veritymode=enforcing
+ro.debuggable=0
+ro.secure=1
+
+vendor.boot.vbmeta.device_state=locked
+sys.oem_unlock_allowed=0
+
+# MIUI
+ro.boot.hwc=GLOBAL
+ro.boot.hwcountry=GLOBAL
+
+# Others
+ro.bootmode=unknown
+ro.boot.mode=unknown
+
+vendor.boot.mode=unknown
