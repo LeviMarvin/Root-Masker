@@ -1,6 +1,6 @@
 id=root-masker
 name=Root Masker
-version=1.0
-versionCode=1
+version=1.1.0
+versionCode=10100
 author=Levi_Marvin / 酷安@日暮清林
 description=Hide your unlocked bootloader and root permission. Tested on MIUI.
